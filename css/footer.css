@@ -26,7 +26,7 @@ html{
 .section1 p{
     color: rgba(110, 110, 110, 0.753);
     font-size: calc(.7vw + .8rem);
-    padding-right: 7vw;
+    /* padding-right: 7vw; */
     
 }
 
