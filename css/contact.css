@@ -282,12 +282,13 @@ textarea{
         flex-direction: row;
         margin-top: 2rem;
         column-gap: 10px;
+        width: 45%;
     }
     .second-svg{
-        margin-left: 3.5rem;
+        /* margin-left: 3.5rem; */
     }
     .third-svg{
-        margin-right: 2rem;
+        /* margin-right: 2rem; */
     }
     .svg{
         

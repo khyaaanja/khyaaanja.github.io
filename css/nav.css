@@ -213,7 +213,12 @@ h1,h2,h3,h4,h5,h6,a{
         
     }
     
-    
+    .footer-logo{
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+    }
     .navbar a h1{
         font-size:2rem;
         padding: 1rem;

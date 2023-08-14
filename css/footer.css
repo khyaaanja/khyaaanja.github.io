@@ -75,7 +75,12 @@ html{
     color: rgb(231, 231, 231);
     border: 1px solid rgb(26, 26, 26);
 }
-
+@media (max-width:950px){
+    /* .section4 img{
+        height: 30vw;
+        width: 30vw;
+    } */
+}
 @media (max-width:650px) {
 .footer{
     grid-template-columns: 2fr 2fr;
@@ -85,7 +90,10 @@ html{
     padding: 10vw;
     
 }
-
+.section4 img{
+    height: 40vw;
+    width: 40vw;
+}
 .section3{
     order: 2;
 }
